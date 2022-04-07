@@ -1,0 +1,68 @@
+const currency = [{
+        abbr: 'AUD',
+        name: '' 
+    }, {
+        abbr: 'CAD',
+        name: '' 
+    },{
+        abbr: 'CHF',
+        name: '' 
+    },{
+        abbr: 'CNY',
+        name: '' 
+    },{
+        abbr: 'DKK',
+        name: '' 
+    },{
+        abbr: 'EUR',
+        name: '' 
+    },{
+        abbr: 'GBP',
+        name: '' 
+    },{
+        abbr: 'HKD',
+        name: '' 
+    },{
+        abbr: 'IDR',
+        name: '' 
+    },{
+        abbr: 'INR',
+        name: '' 
+    },{
+        abbr: 'JPY',
+        name: '' 
+    },{
+        abbr: 'KRW',
+        name: '' 
+    },{
+        abbr: 'MNT',
+        name: '' 
+    },{
+        abbr: 'MYR',
+        name: '' 
+    },{
+        abbr: 'NOK',
+        name: '' 
+    },{
+        abbr: 'PHP',
+        name: '' 
+    },{
+        abbr: 'SDR',
+        name: '' 
+    },{
+        abbr: 'SEK',
+        name: '' 
+    },{
+        abbr: 'SGD',
+        name: '' 
+    },{
+        abbr: 'THB',
+        name: '' 
+    },{
+        abbr: 'TWD',
+        name: '' 
+    },{
+        abbr: 'USD',
+        name: '' 
+    }
+]
